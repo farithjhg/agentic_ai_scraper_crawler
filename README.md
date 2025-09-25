@@ -185,6 +185,61 @@ HEADLESS=true
 REQUEST_TIMEOUT=30
 ```
 
+## 🚀 Deployment
+
+### Heroku
+
+1. Install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+2. Login to your Heroku account:
+   ```bash
+   heroku login
+   ```
+3. Create a new Heroku app:
+   ```bash
+   heroku create your-app-name
+   ```
+4. Set your environment variables:
+   ```bash
+   heroku config:set GEMINI_API_KEY=your_gemini_api_key
+   heroku config:set MODEL=gemini/gemini-2.5-flash
+   heroku config:set PLAYWRIGHT_BROWSERS_PATH=/app/.cache/ms-playwright
+   ```
+5. Deploy your code:
+   ```bash
+   git push heroku main
+   ```
+6. Open the app:
+   ```bash
+   heroku open
+   ```
+
+### Local Development Setup
+
+1. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   python -m playwright install chromium
+   python -m playwright install-deps
+   ```
+
+3. Set your environment variables in a `.env` file:
+   ```
+   GEMINI_API_KEY=your_gemini_api_key
+   MODEL=gemini/gemini-2.5-flash
+   PLAYWRIGHT_BROWSERS_PATH=~/.cache/ms-playwright
+   ```
+
+4. Run the Streamlit app:
+   ```bash
+   streamlit run streamlit_app.py
+   ```
+
 ## 📚 Project Structure
 
 ```

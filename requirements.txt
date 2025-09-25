@@ -2,6 +2,7 @@
 Crawl4AI==0.4.247
 pydantic>=2.4.2
 python-dotenv>=1.0.1
+playwright>=1.40.0
 
 # Content extraction and processing
 trafilatura>=1.6.0

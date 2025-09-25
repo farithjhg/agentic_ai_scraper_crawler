@@ -3,7 +3,23 @@
 Setup script for the Advanced Web Scraper module
 """
 from setuptools import setup, find_packages
+from setuptools.command.install import install
 import os
+import sys
+import subprocess
+
+class PostInstallCommand(install):
+    """Post-installation for installation mode."""
+    def run(self):
+        install.run(self)
+        # Install Playwright browsers
+        try:
+            print("Installing Playwright browsers...")
+            subprocess.check_call([sys.executable, "-m", "playwright", "install", "chromium", "--with-deps"])
+            print("Successfully installed Playwright browsers.")
+        except subprocess.CalledProcessError as e:
+            print(f"Error installing Playwright browsers: {e}")
+            sys.exit(1)
 
 # Read the requirements file
 def read_requirements():
@@ -36,6 +52,10 @@ setup(
     packages=find_packages(),
     install_requires=read_requirements(),
     python_requires=">=3.8",
+    cmdclass={
+        'install': PostInstallCommand,
+    },
+    include_package_data=True,
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
