@@ -1,0 +1,1053 @@
+{
+  "url": "https://brosty.es/",
+  "title": "Brosty – Restaurantes Brosty",
+  "description": null,
+  "content_type": "product",
+  "content_length": 38879,
+  "content_preview": "\n<a href=\"#content\" title=\"Ir al contenido\">\n\t\tIr al contenido</a>\n<div>\n<header>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<span><a href=\"https://www.brosty.es/\"><img alt=\"Brosty\" class=\"custom-logo\" decoding=\"async\" height=\"192\" sizes=\"(max-width: 200px) 100vw, 200px\" src=\"https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR-200x192.png\" srcset=\"https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR-200x192.png 1x, https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR.png 2x\" wi...",
+  "llm_used": true,
+  "structured_data_count": 112,
+  "structured_data": [
+    {
+      "name": "CUBO DE POLLO MAXI",
+      "price": null,
+      "description": "12 piezas, 3 complementos, 3 salsas, 5 tiras de pollo",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2023/07/cubos-1024x634.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/BrostyCiudadLineal_Brosty_CuboDePolloFamiliar_550x440_9.jpg"
+      ]
+    },
+    {
+      "name": "CUBO BROSTY 12 PIEZAS",
+      "price": null,
+      "description": "Con patata frita o cocida + refresco 2L.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "CUBO BROSTY 8 PIEZAS",
+      "price": null,
+      "description": "Con patata frita o cocida.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "CUBO BROSTY 8 PLUS",
+      "price": null,
+      "description": "Con patata frita o cocida.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "BROSTY PERSONAL",
+      "price": null,
+      "description": "3 piezas de pollo, con patata frita o cocida.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "BOCADO DE POLLO BROSTY",
+      "price": null,
+      "description": "1 pieza o pechuga, con patata frita o cocida.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "ALITAS PICANTES",
+      "price": null,
+      "description": "(10 unidades) Las auténticas Alitas Picantes Brosty, con saborintenso y la calidad exclusiva que nos caracteriza.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "MAZORCA",
+      "price": null,
+      "description": "Deliciosa mazorca de maíz con un toque de mantequilla¡ideal para acompañar tu comida!.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Menú 20 Tiras Crujientes para 4",
+      "price": null,
+      "description": "20 tiras +5 salsas + 4 complementos + 4 bebidas.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2022/03/Tiras_pollo-1024x779.jpg"
+      ]
+    },
+    {
+      "name": "Menú 15 Tiras Crujientes para 3",
+      "price": null,
+      "description": "15 tiras +4 salsas + 3 complementos + 3 bebidas.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Menú 10 Tiras Crujientes para 2",
+      "price": null,
+      "description": "10 tiras +3 salsas + 2 complementos + 2 bebidas.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Menú 5 Tiras Crujientes para 1",
+      "price": null,
+      "description": "5 tiras +1 salsas + 1 complemento + 1 bebida.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 1",
+      "price": null,
+      "description": "2 piezas de pollo + patatas fritas o cocidas + arroz + ensalada + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/Combos-copia.png"
+      ]
+    },
+    {
+      "name": "Brosty Combo 2",
+      "price": null,
+      "description": "Filete de cerdo empanado + patatas fritas o cocidas + arroz + ensalada + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 3",
+      "price": null,
+      "description": "2 piezas de pollo + fríjoles + arroz + ensalada + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 4",
+      "price": null,
+      "description": "Filete de pollo empanado + patatas fritas o cocidas + arroz + ensalada + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 5",
+      "price": null,
+      "description": "Hamburguesa de Carne Brosty + patatas fritas o cocidas + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 6",
+      "price": null,
+      "description": "Hamburguesa Doble de Carne Brosty + patatas fritas o cocidas + refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Brosty Combo 7",
+      "price": null,
+      "description": "Pollo a la parrilla + arroz + ensalada + patatas fritas.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Bandeja Paisa",
+      "price": null,
+      "description": "Delicioso Plato Típico de la Zona Cafetera que consta de arroz, fríjoles, carne molida, arepa, chorizo, chicharrón, tajada de plátano maduro, huevo y aguacate. Todo preparado con productos importados de latinoamérica.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/bandeja_paisa.png"
+      ]
+    },
+    {
+      "name": "Costilla BBQ 500Gr",
+      "price": null,
+      "description": "Deliciosa Costilla de Cerdo glaseada con salsa barbacoa, ensalada gourmet y patacones pisaos.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/Costilla_BBq.png"
+      ]
+    },
+    {
+      "name": "Cazuela de fríjoles",
+      "price": null,
+      "description": "Arroz, ensalada, patacón, aguacate y chicharrón.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/cazuela_frijoles.png"
+      ]
+    },
+    {
+      "name": "Pollo a la Parrilla",
+      "price": null,
+      "description": "Arroz, ensalada y patatas fritas.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/Pollo_parrilla-copia_.png"
+      ]
+    },
+    {
+      "name": "Churrasco Argentino 400Gr",
+      "price": null,
+      "description": "Tierno Lomo Alto de Novillo Argentino con salsa chimichurri, yuca frita, arroz y ensalada gourmet.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/churrasco_argentino.png"
+      ]
+    },
+    {
+      "name": "Picada Mixta",
+      "price": null,
+      "description": "Exquisita carne de ternera a la parrilla, tiras de pollo, chicharrón, chorizo ahumado, bofe, papa criolla, 3 arepas fritas, 3 patacones pisaos, patatas fritas, y gajos de tomate.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/picada_mixta.png"
+      ]
+    },
+    {
+      "name": "Dorada Frita",
+      "price": null,
+      "description": "Arroz, ensalada, patacón y limón.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/Dorada_frita.png"
+      ]
+    },
+    {
+      "name": "Fajitas de Pollo",
+      "price": null,
+      "description": "Tortilla Gigante de trigo rellena con jugosas tiras de pollo, preparadas a la parrilla, verduras y una de nuestra deliciosa salsa de Guacamole. Incluye Refresco.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/fajitas_Pollo.png"
+      ]
+    },
+    {
+      "name": "Arepa con queso",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa con salchichón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa de chócolo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Buñuelos",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Empanadas carne o pollo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Pandebonos",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Papa rellena",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Perrito",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Salchipapas",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa especial",
+      "price": null,
+      "description": "Arepa con huevo revuelto o huevo en perico con trozo de queso. Incluye bebida",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Calentado de fríjoles",
+      "price": null,
+      "description": "Fríjoles recalentados con arroz acompañados con huevo revuelto o en perico o chorizo colombiano, mas arepa con trozo de queso. Incluye bebida",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Patacón con pollo o Carne desmechada",
+      "price": null,
+      "description": "Delicioso plátano entero y crujiente con queso, piña y nutritivo pollo desmechado Brosty o carne desmechada, con su receta original, terminado con salsa rosa o tártara y papita.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/patacon-copia.png"
+      ]
+    },
+    {
+      "name": "Patacón con ternera a la parrilla",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Patacón con chicharrón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Patacón con chorizo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa con pollo o Carne desmechada",
+      "price": null,
+      "description": "Deliciosa arepa de maíz natural cubierta con queso, piña y nutritivo pollo desmechado Brosty o carne desmechada con su receta original, terminado con salsa rosa o tártara y papita.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/arepas-copia.png"
+      ]
+    },
+    {
+      "name": "Arepa con ternera a la parrilla",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa con chicharrón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Arepa con chorizo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Arepas fritas x5",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/empanadas-copia-1.png"
+      ]
+    },
+    {
+      "name": "Ración Patatas fritas",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Empanadas",
+      "price": "2,20€",
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Yucas fritas",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Arroz blanco",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Patacón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Maduro",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Fríjoles",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Sopa o Consomé",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Tequeños",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ración Aros de Cebolla (8Uds)",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ensalada César",
+      "price": null,
+      "description": "Ligera y sabrosa ensalada con chuleta de pollo crujiente, aderezada con nuestra clásica salsa César.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/salads.png"
+      ]
+    },
+    {
+      "name": "Ensalada Americana",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ensalada Brosy",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ensalada Mixta",
+      "price": null,
+      "description": "Ligera ensalada de tomates con lechuga, escarola y lechuga de hoja de roble, dados de queso a las finas hierbas provenzales y frutos secos. Aderezada con una deliciosa salsa de yogurt light.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Deliciosas bolas de Helado Gourmet",
+      "price": null,
+      "description": "Sobre un barquillo de galleta. Se bañan con sirope de frutas del bosque, almendra y nata. Varios sabores a elegir:Vainilla, Nata, Chocolate.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/fruit_salad-copia.png"
+      ]
+    },
+    {
+      "name": "Banana Split",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Ensalada de frutas",
+      "price": null,
+      "description": "Plátano, melocotón, mango, papaya, manzana, piña, queso, salsa especial y helado a elegir",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Súper Barquillo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Mango",
+      "price": null,
+      "description": "Digestivo, retrasa el daño de los vasos sanguíneos.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Maracuyá",
+      "price": null,
+      "description": "Con propiedades calmantes y relajantes, beneficiosa para el riñón y el hígado.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Lulo",
+      "price": null,
+      "description": "Diurético.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Guanábana",
+      "price": null,
+      "description": "Depurativo. Ayuda a controlar la anemia.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Guayaba",
+      "price": null,
+      "description": "Favorece la absorción del hierro de los alimentos.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Papaya",
+      "price": null,
+      "description": "Diurética y digestiva. Combate úlceras y reumatismos.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Mora",
+      "price": null,
+      "description": "Tonifica las vías respiratorias.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Batidos",
+      "price": null,
+      "description": "Varios sabores",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "¡El 7 Poderes!",
+      "price": null,
+      "description": "Chontaduro, borojó, Kola Granulada, miel y secretos de la casa.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Granizados",
+      "price": null,
+      "description": "Maracuyá, mango, fresa, lulada, mora, limón.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Batidos de helado",
+      "price": null,
+      "description": "Pregúntanos por tu sabor favorito.",
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Agua panela con limón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Avena fría",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Milo frío",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Naranja y zanahoria",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Papaya, plátano y fresa",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Papaya, mango y plátano",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Naranja, mango y sandía",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Piña, naranja y maracuyá",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Papaya, naranja y plátano",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Fresa, naranja y plátano",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Mango, plátano y naranja",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Fresa, mango y plátano",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Sandía, maracuyá y mango",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Naranja y mango",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Fresa y mora",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Aguapanela con limón",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Manzana Postobon",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Coca Cola, Fanta Naranja",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Uva Postobon",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Colombiana",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Pony Malta",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Cerveza Heineken",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Cerveza Mahou",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Club Colombia",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Nestea, Aquarius",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Jugo del día",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Coca Cola 2L",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Refrescos 2L importación",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Jarra de Aguapanela",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Jarra de Jugo del día",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Jarra de Refajo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Café solo",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Café con Leche",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Infusiones",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Chupito de Licores",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    },
+    {
+      "name": "Vino Tinto o Blanco",
+      "price": null,
+      "description": null,
+      "rating": null,
+      "reviews": null,
+      "availability": null,
+      "images": null
+    }
+  ]
+}

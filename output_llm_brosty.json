@@ -1,0 +1,65 @@
+{
+  "url": "https://brosty.es/",
+  "title": "Brosty – Restaurantes Brosty",
+  "description": null,
+  "content_type": "listing",
+  "content_length": 38878,
+  "content_preview": "\n<a href=\"#content\" title=\"Ir al contenido\">\n\t\tIr al contenido</a>\n<div>\n<header>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<div>\n<span><a href=\"https://www.brosty.es/\"><img alt=\"Brosty\" class=\"custom-logo\" decoding=\"async\" height=\"192\" sizes=\"(max-width: 200px) 100vw, 200px\" src=\"https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR-200x192.png\" srcset=\"https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR-200x192.png 1x, https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR.png 2x\" wi...",
+  "llm_used": true,
+  "structured_data_count": 1,
+  "structured_data": [
+    {
+      "title": "Brosty - Restaurante de Pollo Apanado",
+      "description": "Brosty offers the best breaded chicken in Madrid with an authentic American recipe. We have been operating for 11 years, providing high-quality food to our customers.",
+      "content": "Brosty is a restaurant specializing in breaded chicken dishes, offering a variety of options such as chicken cubes, combos, and traditional dishes like Bandeja Paisa. We also provide delivery services and have a wide range of sides, desserts, and beverages.",
+      "links": [
+        "https://brosty.es/",
+        "https://brosty.es/contacto/",
+        "https://brosty.es/tienda-2/",
+        "https://brosty.es/pedido-online/",
+        "https://brosty.es/tienda/",
+        "https://play.google.com/store/apps/details?id=ie.flipdish.fd3029&gl=ES",
+        "https://apps.apple.com/es/app/restaurante-brosty/id1459535780",
+        "https://www.facebook.com/Brostyrestaurantes",
+        "https://www.instagram.com/restaurantebrosty/",
+        "https://www.google.com/search?q=restaurante+brosty+madrid",
+        "https://brosty.es/terminos-y-condiciones/"
+      ],
+      "images": [
+        "https://www.brosty.es/wp-content/uploads/2021/04/Logo_LR-200x192.png",
+        "https://www.brosty.es/wp-content/uploads/2018/10/divider-free-img-1.png",
+        "https://www.brosty.es/wp-content/uploads/2023/07/cubos-1024x634.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Deliveryicon.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Google_App_Store.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/app_store.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Home_left.jpg",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Home_Right.jpg",
+        "https://www.brosty.es/wp-content/uploads/2021/04/BrostyCiudadLineal_Brosty_CuboDePolloFamiliar_550x440_9.jpg",
+        "https://www.brosty.es/wp-content/uploads/2022/03/Tiras_pollo-1024x779.jpg",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Combos-copia.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/bandeja_paisa.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Costilla_BBq.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/cazuela_frijoles.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Pollo_parrilla-copia_.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/churrasco_argentino.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/picada_mixta.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Dorada_frita.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/fajitas_Pollo.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/icono_desayuno.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/patacon-copia.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/arepas-copia.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/empanadas-copia-1.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/salads.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/fruit_salad-copia.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/thimb_zumos.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/thumb_refrescos.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Header_refrescos.png",
+        "https://www.brosty.es/wp-content/uploads/2021/04/Header_refrescos_2.png"
+      ],
+      "metadata": {
+        "copyright": "Copyright © 2025 Brosty",
+        "year": 2025
+      }
+    }
+  ]
+}
